@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>821356554683-67auahc9m5agvm2igpcq0of78v6e2kmq.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.821356554683-67auahc9m5agvm2igpcq0of78v6e2kmq</string>
+	<key>API_KEY</key>
+	<string>AIzaSyB5EFEuGbj_seWtv1k--v6rnR6aD2hkvNE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>821356554683</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>zabashtina.friends</string>
+	<key>PROJECT_ID</key>
+	<string>friends-11796</string>
+	<key>STORAGE_BUCKET</key>
+	<string>friends-11796.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:821356554683:ios:c3a242480be087c1497c9e</string>
+</dict>
+</plist>
